@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emilienzabu.github.io/CarburantRadar/sitemap_2.xml
